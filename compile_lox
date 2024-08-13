@@ -1,0 +1,3 @@
+#!/bin/bash
+rm ./bin/com/craftinginterpreters/lox/*.class
+javac -d ./bin src/com/craftinginterpreters/lox/*.java
