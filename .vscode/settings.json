@@ -6,5 +6,6 @@
     ],
     "cSpell.words": [
         "craftinginterpreters"
-    ]
+    ],
+    "editor.formatOnSave": false,
 }
